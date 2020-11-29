@@ -8,6 +8,7 @@ movmean_python <- function(x, halfwin) {
 }
 
 
+
 #' @importFrom reticulate source_python
 python_init <- function(){
     # env = parent.frame()
